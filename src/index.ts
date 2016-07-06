@@ -23,6 +23,7 @@ function protobind(target:any):any {
     return target;
   }
 }
+namespace protobind {}
 export = protobind;
 
 /**
