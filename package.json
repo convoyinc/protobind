@@ -1,11 +1,11 @@
 {
-  "name": "deep-autobind",
+  "name": "protobind",
   "version": "1.0.0",
   "description": "react-addons-update except that it will fill in object paths that are missing.",
-  "homepage": "https://github.com/convoyinc/deep-autobind",
-  "bugs": "https://github.com/convoyinc/deep-autobind/issues",
+  "homepage": "https://github.com/convoyinc/protobind",
+  "bugs": "https://github.com/convoyinc/protobind/issues",
   "license": "Apache-2.0",
-  "repository": "convoyinc/deep-autobind",
+  "repository": "convoyinc/protobind",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "files": [
