@@ -1,6 +1,6 @@
 {
   "name": "deep-autobind",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "react-addons-update except that it will fill in object paths that are missing.",
   "homepage": "https://github.com/convoyinc/deep-autobind",
   "bugs": "https://github.com/convoyinc/deep-autobind/issues",
