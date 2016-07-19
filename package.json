@@ -1,7 +1,7 @@
 {
   "name": "protobind",
   "version": "1.0.0",
-  "description": "react-addons-update except that it will fill in object paths that are missing.",
+  "description": "Binds all methods on an object to itself, including those defined on its prototype, and inherited up the chain.",
   "homepage": "https://github.com/convoyinc/protobind",
   "bugs": "https://github.com/convoyinc/protobind/issues",
   "license": "Apache-2.0",
