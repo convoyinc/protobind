@@ -8,4 +8,3 @@ echo "Releasing ${PACKAGE_VERSION}"
 npm version "${PACKAGE_VERSION}"
 git push --tags
 npm publish
-npm publish --tag latest
