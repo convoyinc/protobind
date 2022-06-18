@@ -11,6 +11,8 @@ test:
         files:
           - src/**/*.ts
 
+    - npm run test:unit
+
 deployment:
   deploy:
     branch: master
