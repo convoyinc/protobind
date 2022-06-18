@@ -3,7 +3,7 @@
 Binds all methods on an object to itself, _including_ those defined on its prototype, and inherited up the chain.  Also ensures that any methods' properties are preserved.
 
 ```js
-import autobind from 'protobind';
+import { protobind } from 'protobind';
 
 class Foo {
   constructor() {
@@ -26,9 +26,9 @@ bar(); // 'stuff'
 You can also use it as a decorator:
 
 ```js
-import autobind from 'protobind';
+import { protobind } from 'protobind';
 
-@autobind
+@protobind
 class Foo {
   foo() {
     return 'stuff';
