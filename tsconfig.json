@@ -9,6 +9,9 @@
     "noImplicitReturns": true,
     "outDir": "./dist/",
     "pretty": true,
-    "target": "es5"
-  }
+    "target": "ES6",
+    "experimentalDecorators": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "src/**/*.test.ts"]
 }
